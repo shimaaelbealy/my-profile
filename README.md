@@ -12,11 +12,11 @@
 
 ### 🛠️ Technical Skills & Tools
 
-| Category | Skills & Technologies (with Official Logos & Backgrounds) |
+| Category | Skills & Technologies |
 | :--- | :--- |
-| **Languages & Core** | <img src="https://shields.io"/> <img src="https://shields.io"/> <img src="https://shields.io"/> <img src="https://shields.io"/> |
-| **Authoring Tools** | <img src="https://shields.io"/> `H5P Interactive` |
-| **Digital Design** | <img src="https://shields.io"/> <img src="https://shields.io"/> `Camtasia Suite` `Wondershare Filmora` `AI Content Tools` |
-| **Frameworks & Standards** | `ADDIE Framework` `Bloom's Taxonomy` `Universal Design for Learning (UDL)` `WCAG Accessibility` `xAPI Standards` |
-| **Dev Tools & LMS** | <img src="https://shields.io"/> <img src="https://shields.io"/> <img src="https://shields.io"/> <img src="https://shields.io"/> <img src="https://shields.io"/> |
+| **Languages & Core** | ![JavaScript](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io) ![C++](https://shields.io) |
+| **Authoring Tools** | ![Articulate](https://shields.io) `H5P Interactive` |
+| **Digital Design** | ![Illustrator](https://shields.io) ![Canva](https://shields.io) `Camtasia Suite` `Wondershare Filmora` `AI Content Tools` |
+| **Frameworks & Standards** | `ADDIE Framework` • `Bloom's Taxonomy` • `UDL` • `WCAG Accessibility` • `xAPI Standards` |
+| **Dev Tools & LMS** | ![Git](https://shields.io) ![GitHub](https://shields.io) ![VS Code](https://shields.io) ![Moodle](https://shields.io) ![MySQL](https://shields.io) |
 | **Professional Soft Skills**| `Analytical Thinking` • `Active Learning` • `Technical Documentation` • `Self-Learning` |
