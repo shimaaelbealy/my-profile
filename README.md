@@ -3,7 +3,7 @@ all about me
 # Shimaa ELbealy
 **Curriculum Developer**
 
-Cairo, Egypt | +20 1211182852 | [Shimaa.elbealy@outlook.com](mailto:Shimaa.elbealy@outlook.com)  
+Cairo, Egypt   [Shimaa.elbealy@outlook.com](mailto:Shimaa.elbealy@outlook.com)  
 [Behance Profile](https://behance.net) | [GitHub Profile](https://github.com)
 
 ---
